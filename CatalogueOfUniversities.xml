@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<catalogue>
+  <university>
+    <name>Американски Университет</name>
+    <abreviation>АУБГ</abreviation>
+    <location>Благоевград</location>
+    <faculties>
+      <faculty name="-">
+        <specialities>
+          <speciality name="Бизнес администрация" course="Бакалавър" />
+          <speciality name="Икономика" course="Бакалавър" />
+          <speciality name="Компютърни науки" course="Бакалавър" />
+          <speciality name="Европеистика" course="Бакалавър" />
+          <speciality name="История и цивилизация" course="Бакалавър" />
+          <speciality name="Информационни системи" course="Бакалавър" />
+          <speciality name="Журналистика и масови комуникации" course="Бакалавър" />
+          <speciality name="Литаратура" course="Бакалавър" />
+          <speciality name="Математика" course="Бакалавър" />
+          <speciality name="Политически науки и международни отношения" course="Бакалавър" />
+          <speciality name="Индивидуално планирана специалност" course="Бакалавър" />
+        </specialities>
+      </faculty>
+    </faculties>
+  </university>
+  <university>
+    <name>Технически Университет</name>
+    <abreviation>ТУ</abreviation>
+    <location>София</location>
+    <faculties>
+      <faculty name="Машиностроителен">
+        <specialities>
+          <speciality name="Инженерен дизайн" course="Бакалавър" />
+          <speciality name="Инженерна логистика" course="Бакалавър" />
+          <speciality name="Машиностроене" course="Бакалавър" />
+          <speciality name="Машиностроене (на английски език)" course="Бакалавър" />
+          <speciality name="Метрология и измервателна техника" course="Бакалавър" />
+          <speciality name="Мехатроника" course="Бакалавър" />
+          <speciality name="Мехатронни системи (на английски език)" course="Бакалавър" />
+          <speciality name="Mедицинска техника" course="Магистър" />
+          <speciality name="Инженерен дизайн" course="Магистър" />
+          <speciality name="Инженерна логистика" course="Магистър" />
+          <speciality name="Мехатронни системи (на английски език)" course="Магистър" />
+        </specialities>
+      </faculty>
+      <faculty name="Електротехнически">
+        <specialities>
+          <speciality name="Eлектротехника" course="Бакалавър" />
+          <speciality name="Eлектротехника (на английски език)" course="Бакалавър" />
+          <speciality name="Електроенергетика и електрообзавеждане" course="Бакалавър" />
+          <speciality name="Електрическа енергия от възобновяеми енергийни източници" course="Магистър" />
+          <speciality name="Eлектроенергетика и електрообзавеждане" course="Магистър" />
+        </specialities>
+      </faculty>
+      <faculty name="Енергомашиностроителен">
+        <specialities>
+          <speciality name="Енергопреобразуващи технологии и енергийна ефективност в сгради и промишлени обекти" course="Бакалавър" />
+          <speciality name="Проектиране и технологии за облекло и текстил" course="Бакалавър" />
+          <speciality name="Топлоенергетика и Ядрена енергетика" course="Бакалавър" />
+          <speciality name="Хидравлична и пневматична техника" course="Бакалавър" />
+          <speciality name="Газово инженерство и мениджмънт" course="Магистър" />
+          <speciality name="Енергопреобразуващи технологии и енергийна ефективност в сгради и промишлени обекти" course="Магистър" />
+          <speciality name="Проектиране и технологии за облекло и текстил" course="Магистър" />
+          <speciality name="Топлоенергетика" course="Магистър" />
+          <speciality name="Хидравлична и пневматична техника" course="Магистър" />
+          <speciality name="Ядрена енергетика" course="Магистър" />
+        </specialities>
+      </faculty>
+      <faculty name="Компютърни системи и управлени">
+        <specialities>
+          <speciality name="Информационни технологии в индустрията" course="Бакалавър" />
+          <speciality name="Информационни технологии в транспорта (на английски език)" course="Бакалавър" />
+          <speciality name="Компютърно и софтуерно инженерство" course="Бакалавър" />
+          <speciality name="Графичен и уеб дизайн" course="Магистър" />
+          <speciality name="Компютърни технологии в нематериалната сфера" course="Магистър" />
+          <speciality name="Компютърни технологии и приложно програмиране" course="Магистър" />
+          <speciality name="Компютърно и софтуерно инженерство" course="Магистър" />
+        </specialities>
+      </faculty>
+      <faculty name="Транспортен">
+        <specialities>
+          <speciality name="Авиационна техника и технологии" course="Бакалавър" />
+          <speciality name="Авиационно инженерство (на английски език)" course="Бакалавър" />
+          <speciality name="Автомобилно инженерство (на английски език)" course="Бакалавър" />
+          <speciality name="Автотранспортна техника" course="Бакалавър" />
+          <speciality name="Информационни технологии в транспорта (на английски език" course="Бакалавър" />
+          <speciality name="Технология и управление на транспорта" course="Бакалавър" />
+          <speciality name="Транспортна техника и технологии" course="Бакалавър" />
+          <speciality name="Авиационна техника и технологии" course="Магистър" />
+          <speciality name="Технология и управление на транспорта" course="Магистър" />
+        <speciality name="Транспортна техника и технология" course="Магистър" />
+        </specialities>
+      </faculty>
+    </faculties>
+  </university>
+  <university>
+    <name>Икономически Университет</name>
+    <abreviation>ИУ</abreviation>
+    <location>Варна</location>
+    <faculties>
+      <faculty name="Икономически">
+        <specialities>
+          <speciality name="Счетоводство и контрол" course="Бакалавър" />
+          <speciality name="Публични финанси" course="Бакалавър" />
+          <speciality name="Банков мениджмънт" course="Бакалавър" />
+          <speciality name="Корпоративни финанси" course="Бакалавър" />
+          <speciality name="Корпоративен бизнес и управление" course="Бакалавър" />
+          <speciality name="Глобален търговски бизнес" course="Бакалавър" />
+          <speciality name="Строително предприемачество" course="Бакалавър" />
+          <speciality name="Икономика на недвижимата собственост" course="Бакалавър" />
+          <speciality name="Аграрен бизнес" course="Бакалавър" />
+          <speciality name="Качество и експертиза на стоките" course="Бакалавър" />
+          <speciality name="Управление на продажбите и мърчандайзинг" course="Бакалавър" />
+          <speciality name="Реклама и медийни комуникации" course="Бакалавър" />
+          <speciality name="Международен бизнес" course="Бакалавър" />
+          <speciality name="Бизнес икономика" course="Бакалавър" />
+          <speciality name="Бизнес информационни системи" course="Бакалавър" />
+          <speciality name="Логистичен мениджмънт" course="Бакалавър" />
+          <speciality name="Икономика на недвижимата собственост" course="Магистър" />
+          <speciality name="Аграрен бизнес" course="Магистър" />
+          <speciality name="Качество и експертиза на стоките" course="Магистър" />
+          <speciality name="Управление на продажбите и мърчандайзинг" course="Магистър" />
+          <speciality name="Реклама и медийни комуникации" course="Магистър" />
+        </specialities>
+      </faculty>
+      <faculty name="Администрация и управление">
+        <specialities>
+          <speciality name="Мениджмънт" course="Бакалавър" />
+          <speciality name="Мениджмънт на човешките ресурси" course="Бакалавър" />
+          <speciality name="Публична администрация" course="Бакалавър" />
+          <speciality name="Публична администрация" course="Магистър" />
+        </specialities>
+      </faculty>
+      <faculty name="Туризъм">
+        <specialities>
+          <speciality name="Международен туристически бизнес" course="Бакалавър" />
+        </specialities>
+      </faculty>
+    </faculties>
+  </university>
+  <university>
+    <name>Бургаски Свободен Университет</name>
+    <abreviation>БСУ</abreviation>
+    <location>Бургас</location>
+    <faculties>
+      <faculty name="Юридически науки">
+        <specialities>
+          <speciality name="Публична администрация" course="Бакалавър" />
+          <speciality name="Право" course="Бакалавър" />
+          <speciality name="Публична администрация" course="Магистър" />
+          <speciality name="Данъчна администрация " course="Магистър" />
+          <speciality name="Митническо разузнаване и разследване " course="Магистър" />
+          <speciality name="Администрация и управление на системата на национална сигурност " course="Магистър" />
+        </specialities>
+      </faculty>
+      <faculty name="Икономически и управленски науки">
+        <specialities>
+          <speciality name="Финанси" course="Бакалавър" />
+          <speciality name="Счетоводство и контрол" course="Бакалавър" />
+          <speciality name="Маркетинг" course="Бакалавър" />
+          <speciality name="Бизнес Администрация" course="Бакалавър" />
+          <speciality name="Международни икономически отношения" course="Бакалавър" />
+          <speciality name="Икономика и маркетинг на туризма" course="Бакалавър" />
+          <speciality name="Финанси" course="Магистър" />
+          <speciality name="Счетоводство и контрол" course="Магистър" />
+          <speciality name="Банков мениджмънт" course="Магистър" />
+          <speciality name="Mаркетинг и дигитални комуникации - на английски език" course="Магистър" />
+          <speciality name="Счетоводство и контрол" course="Магистър" />
+        </specialities>
+      </faculty>
+      <faculty name="Информатика и технически науки">
+        <specialities>
+          <speciality name="Информатика и компютърни науки" course="Бакалавър" />
+          <speciality name="Софтуерно инженерство" course="Бакалавър" />
+          <speciality name="Приложна информатика и уеб дизайн" course="Бакалавър" />
+          <speciality name="Компютърни системи и технологии" course="Бакалавър" />
+          <speciality name="Системно инженерство" course="Бакалавър" />
+          <speciality name="Информационна сигурност " course="Магистър" />
+          <speciality name="Комуникации и електронизация за възобновяеми енергийни източници" course="Магистър" />
+          <speciality name="Съдебни автотехнически експертизи и безопасност на движението" course="Магистър" />
+          <speciality name="Инженеринг и експлоатация на енергийни системи" course="Магистър" />
+          <speciality name="Мултимедийни технологии и уеб дизайн" course="Магистър" />
+          <speciality name="Интегрирани компютърни системи и комплекси" course="Магистър" />
+        </specialities>
+      </faculty>
+      <faculty name="Хуманитарни науки">
+        <specialities>
+          <speciality name="Психология" course="Бакалавър" />
+          <speciality name="Журналистика" course="Бакалавър" />
+          <speciality name="Връзки с обществеността" course="Бакалавър" />
+          <speciality name="Детска и юношеска психология" course="Бакалавър" />
+          <speciality name="Психологично консултиране" course="Бакалавър" />
+          <speciality name="Социално консултиране и психология" course="Бакалавър" />
+          <speciality name="Стратегически комуникации и медия мениджмънт" course="Бакалавър" />
+        </specialities>
+      </faculty>
+    </faculties>
+  </university>
+  <university>
+    <name>Великотърновски Университет &amp;св. св. Кирил и Методий&amp;</name>
+    <abreviation>ВТУ</abreviation>
+    <location>Велико Търново</location>
+    <faculties>
+      <faculty name="Исторически">
+        <specialities>
+          <speciality name="География" course="Бакалавър" />
+          <speciality name="Етнология" course="Бакалавър" />
+          <speciality name="История" course="Бакалавър" />
+          <speciality name="Културен туризъм" course="Бакалавър" />
+          <speciality name="Педагогика на обучението по история и география" course="Бакалавър" />  
+          <speciality name="Педагогика на обучението по история и философия" course="Бакалавър" />
+          <speciality name="Педагогика на обучението по история и чужд език" course="Бакалавър" />
+          <speciality name="Регионално развитие и геоикономика " course="Бакалавър" />
+          <speciality name="Археология" course="Магистър" />
+          <speciality name="Византинистика" course="Магистър" />
+          <speciality name="География и икономика" course="Магистър" />
+          <speciality name="История на дипломацията" course="Магистър" />
+          <speciality name="Културно-историческо наследство в България и Русия" course="Магистър" />
+          <speciality name="Музеология" course="Магистър" />
+          <speciality name="Обща история. Европейска цивилизация: антично и средновековно наследство" course="Магистър" />
+        </specialities>
+      </faculty>
+      <faculty name="Математика и информатика">
+        <specialities>
+          <speciality name="Библиотечно-информационни дейности" course="Бакалавър" />
+          <speciality name="Информатика" course="Бакалавър" />
+          <speciality name="Книгоиздаване" course="Бакалавър" />
+          <speciality name="Компютърни науки" course="Бакалавър" />
+          <speciality name="Педагогика на обучението по математика и информатика" course="Бакалавър" />
+          <speciality name="Приложна математика" course="Бакалавър" />
+          <speciality name="Софтуерно инженерство" course="Бакалавър" />
+          <speciality name="Компютърни науки. Приложни компютърни науки" course="Магистър" />
+          <speciality name="Технологии за обучение по математика" course="Магистър" />
+          <speciality name="Математически структури в информационната сигурност" course="Магистър" />
+          <speciality name="Информатика. Информационни системи" course="Магистър" />
+          <speciality name="Информатика. Корпоративни мрежови среди" course="Магистър" />
+        </specialities>
+      </faculty>
+      <faculty name="Философски">
+        <specialities>
+          <speciality name="Политология" course="Бакалавър" />
+          <speciality name="Философия" course="Бакалавър" />
+          <speciality name="Психология" course="Бакалавър" />
+          <speciality name="Екзистенциално споделяне" course="Магистър" />
+          <speciality name="Политология. Дипломация и национална сигурност" course="Магистър" />
+          <speciality name="Приложна психология" course="Магистър" />
+          <speciality name="Съвременна философия" course="Магистър" />
+        </specialities>
+      </faculty>
+    </faculties>
+  </university>
+  <university>
+    <name>Софийски Университет &amp;св. Климент Охридски&amp;</name>
+    <abreviation>СУ</abreviation>
+    <location>София</location>
+    <faculties>
+      <faculty name="Исторически">
+        <specialities>
+          <speciality name="Археология" course="Бакалавър" />
+          <speciality name="Етнология" course="Бакалавър" />
+          <speciality name="История" course="Бакалавър" />
+          <speciality name="История и география" course="Бакалавър" />
+          <speciality name="Архивистика и документалистика" course="Бакалавър" />  
+          <speciality name="Минало и съвремие на Югоизточна Европа" course="Бакалавър" />
+          <speciality name="История и философия" course="Бакалавър" />
+          <speciality name="Българско средновековие: държава, общество, култура" course="Магистър" />
+          <speciality name="Античност и средновековие" course="Магистър" />
+          <speciality name="Християнство и ислям на Балканите" course="Магистър" />
+          <speciality name="Възраждане и памет" course="Магистър" />
+          <speciality name="Историко-етнически модели на националната сигурност" course="Магистър" />
+          <speciality name="История на Евразия, Русия и Източна Европа" course="Магистър" />
+          <speciality name="Етнология и културна антропология" course="Магистър" />
+        </specialities>
+      </faculty>
+      <faculty name="Математика и информатика">
+        <specialities>
+          <speciality name="Математика" course="Бакалавър" />
+          <speciality name="Математика и информатика" course="Бакалавър" />
+          <speciality name="Информатика" course="Бакалавър" />
+          <speciality name="Приложна математика" course="Бакалавър" />
+          <speciality name="Компютърни науки" course="Бакалавър" />
+          <speciality name="Информационни системи" course="Бакалавър" />
+          <speciality name="Статистика" course="Бакалавър" />
+          <speciality name="Софтуерно инженерство" course="Бакалавър" />
+          <speciality name="Алгебра, геометрия и топология" course="Магистър" />
+          <speciality name="Динамични системи и теория на числата" course="Магистър" />
+          <speciality name="Математическо моделиране в икономиката" course="Магистър" />
+          <speciality name="Оптимизация" course="Магистър" />
+          <speciality name="Био- и медицинска информатика" course="Магистър" />
+          <speciality name="Вградени системи" course="Магистър" />
+          <speciality name="Уравнения на математичната физика и приложения" course="Магистър" />
+          <speciality name="Изкуствен интелект" course="Магистър" />
+        </specialities>
+      </faculty>
+      <faculty  name="Философски">
+        <specialities>
+          <speciality name="Политология" course="Бакалавър" />
+          <speciality name="Философия" course="Бакалавър" />
+          <speciality name="Психология" course="Бакалавър" />
+          <speciality name="Социология" course="Бакалавър" />
+          <speciality name="Библиотечно-информационни науки" course="Бакалавър" />
+          <speciality name="Публична администрация" course="Бакалавър" />
+          <speciality name="Европеистика" course="Бакалавър" />
+          <speciality name="Културология" course="Бакалавър" />
+          <speciality name="История на философията" course="Магистър" />
+          <speciality name="Философия" course="Магистър" />
+          <speciality name="Философска антропология" course="Магистър" />
+          <speciality name="Интегративна биоетика" course="Магистър" />
+          <speciality name="Виртуална култура" course="Магистър" />
+          <speciality name="Социални изследвания на пола" course="Магистър" />
+          <speciality name="Клинична психология" course="Магистър" />
+          <speciality name="Социална и юридическа психология" course="Магистър" />
+        </specialities>
+      </faculty>
+      <faculty name="Химия и Фармация">
+        <specialities>
+          <speciality name="Химия" course="Бакалавър" />
+          <speciality name="Екохимия" course="Бакалавър" />
+          <speciality name="Компютърна химия" course="Бакалавър" />
+          <speciality name="Ядрена химия" course="Бакалавър" />
+          <speciality name="Инженерна химия и съвременни материали" course="Бакалавър" />
+          <speciality name="Химия и информатика" course="Бакалавър" />
+          <speciality name="Химия и английски език" course="Бакалавър" />
+          <speciality name="Медицинска химия" course="Магистър" />
+          <speciality name="Медицинска и фармакологична биофизикохимия" course="Магистър" />
+          <speciality name="Дисперсни системи в химичните технологии" course="Магистър" />
+          <speciality name="Органични материали във висшите технологии" course="Магистър" />
+          <speciality name="Изчислителна химия" course="Магистър" />
+          <speciality name="Полимери" course="Магистър" />
+          <speciality name="Химия на твърдото състояние" course="Магистър" />
+          <speciality name="Радиохимия и радиоекология" course="Магистър" />
+        </specialities>
+      </faculty>
+      <faculty name="Стопански">
+        <specialities>
+          <speciality name="Икономика и финанси" course="Бакалавър" />
+          <speciality name="Икономика" course="Бакалавър" />
+          <speciality name="Стопанско управление" course="Бакалавър" />
+          <speciality name="Магистърски програми за професионални бакалаври по Стопанско управление" course="Магистър" />
+          <speciality name="Приложна икономика" course="Магистър" />
+          <speciality name="Статистика, иконометрия и актюерство" course="Магистър" />
+          <speciality name="Финанси и банково дело" course="Магистър" />
+          <speciality name="Счетоводство и одит" course="Магистър" />
+          <speciality name="Финансов мениджмънт на английски език" course="Магистър" />
+          <speciality name="Корпоративно счетоводство със секторна специализация" course="Магистър" />
+          <speciality name="Бизнес-администрация - Развитие на човешките ресурси" course="Магистър" />
+          <speciality name="Управленски информационни системи" course="Магистър" />
+          <speciality name="Икономика и управление на туризма" course="Магистър" />
+        </specialities>
+      </faculty>
+    </faculties>
+    </university>
+    <university>
+    <name>Тракийски Университет</name>
+    <abreviation>ТрУ</abreviation>
+    <location>Стара Загора</location>
+    <faculties>
+      <faculty name="Аграрен">
+        <specialities>
+          <speciality name="Aгрономство" course="Бакалавър" />
+          <speciality name="Aграрно инженерство" course="Бакалавър" />
+          <speciality name="Зооинжинерство" course="Бакалавър" />
+          <speciality name="Екология и опазване на околната среда" course="Бакалавър" />
+          <speciality name="Рибовъдство и аквакултура" course="Бакалавър" />
+          <speciality name="Опазване и управление на околната среда" course="Магистър" />
+          <speciality name="Екотуризъм" course="Магистър" />
+          <speciality name="Земеделска техника" course="Магистър" />
+          <speciality name="Биологично земеделие" course="Магистър" />
+          <speciality name="Агроекология и растителна защита" course="Магистър" />
+        </specialities>
+      </faculty>
+      <faculty name="Медицински">
+        <specialities>
+          <speciality name="Акушерка" course="Бакалавър" />
+          <speciality name="Медицинска сестра" course="Бакалавър" />
+          <speciality name="Социални дейности" course="Бакалавър" />
+          <speciality name="Управление на здравните грижи" course="Бакалавър" />
+          <speciality name="Медицинска рехабилитация и ерготерапия" course="Бакалавър" />
+          <speciality name="Лекарски асистент" course="Бакалавър" />
+          <speciality name="Социална работа и медиация" course="Магистър" />
+          <speciality name="Организация и управление на социалната сфера" course="Магистър" />
+        </specialities>
+      </faculty>
+      <faculty name="Стопански">
+        <specialities>
+          <speciality name="Аграрна икономика" course="Бакалавър" />
+          <speciality name="Бизнесикономика" course="Бакалавър" />
+          <speciality name="Регионална  икономика" course="Бакалавър" />
+        </specialities>
+      </faculty>
+      <faculty name="Педагогически">
+        <specialities>
+          <speciality name="Предучилищна и начална училищна педагогика" course="Бакалавър" />
+          <speciality name="Начална училищна педагогика с чужд език" course="Бакалавър" />
+          <speciality name="Социална педагогика" course="Бакалавър" />
+          <speciality name="Специална педагогика" course="Бакалавър" />
+          <speciality name="Педагогика на обучението по информационни технологии " course="Бакалавър" />
+          <speciality name="Консултиране в социалнo-образователната сфера" course="Магистър" />
+          <speciality name="Мениджмънт на социалните и педагогическите организаци" course="Магистър" />
+        </specialities>
+      </faculty>
+    </faculties>
+  </university>
+</catalogue>

@@ -1,0 +1,21 @@
+<!ELEMENT abreviation ( #PCDATA ) >
+
+<!ELEMENT catalogue ( university+ ) >
+
+<!ELEMENT faculties ( faculty+ ) >
+
+<!ELEMENT faculty ( specialities ) >
+<!ATTLIST faculty name CDATA #REQUIRED >
+
+<!ELEMENT location ( #PCDATA ) >
+
+<!ELEMENT name ( #PCDATA ) >
+
+<!ELEMENT specialities ( speciality+ ) >
+
+<!ELEMENT speciality EMPTY >
+<!ATTLIST speciality course ( Бакалавър | Магистър ) #REQUIRED >
+<!ATTLIST speciality name CDATA #REQUIRED >
+
+<!ELEMENT university ( name, abreviation, location, faculties ) >
+
