@@ -18,4 +18,3 @@
 <!ATTLIST speciality name CDATA #REQUIRED >
 
 <!ELEMENT university ( name, abreviation, location, faculties ) >
-
